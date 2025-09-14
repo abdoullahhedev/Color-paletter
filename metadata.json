@@ -1,0 +1,5 @@
+{
+  "name": "2D Animation Color Palette Visualizer",
+  "description": "A real-time tool to visualize and create color palettes for 2D characters and backgrounds. Experiment with colors, toggle scene elements, use presets, and export your creations as JSON.",
+  "requestFramePermissions": []
+}
